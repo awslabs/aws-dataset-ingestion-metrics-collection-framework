@@ -1,0 +1,22 @@
+# -e . TODO: Find another way
+aws-cdk.aws_cloudwatch_actions
+aws_cdk.aws-cloudwatch
+aws_cdk.aws-events-targets
+aws_cdk.aws_lambda
+aws_cdk.aws_lambda_event_sources
+aws_cdk.aws_glue
+aws_cdk.aws_iam
+aws_cdk.aws_kinesis
+aws_cdk.aws_kinesisfirehose
+aws_cdk.aws_s3
+aws_cdk.aws_s3_deployment
+aws_cdk.aws_s3_notifications
+aws_cdk.aws_ec2
+aws_cdk.aws_ssm
+aws_cdk.aws_sqs
+aws_cdk.core
+aws_cdk.custom_resources
+aws_cdk.aws_kms
+aws_cdk.aws_logs
+boto3
+botocore
