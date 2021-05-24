@@ -1,0 +1,18 @@
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.env
+glue/*.zip
+*.egg-info
+script.sh
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+# IDE
+.vscode
+.DS_Store
+.idea
+definitions/account_*
+!definitions/account_123412341234*
+
